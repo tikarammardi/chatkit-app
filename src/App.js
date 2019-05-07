@@ -56,7 +56,7 @@ class App extends React.Component {
   subscribeToRoom(roomId) {
     this.setState({ messages: [] });
     this.currentUser
-      .subscribeToRoomMultipart({
+      .subscribeToRoom({
         roomId: roomId,
         hooks: {
           onNewMessage: message => {

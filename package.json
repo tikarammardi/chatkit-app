@@ -4,11 +4,14 @@
   "private": true,
   "dependencies": {
     "@pusher/chatkit-client": "^1.5.0",
+    "@pusher/chatkit-server": "^1.1.0",
+    "gh-pages": "^2.0.1",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-scripts": "3.0.0"
   },
   "scripts": {
+    "deploy": "npm run build&&gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -28,5 +31,22 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tikarammardi/chatkit-app.git"
+  },
+  "keywords": [
+    "Chat",
+    "app"
+  ],
+  "author": "Tikaram Mardi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tikarammardi/chatkit-app/issues"
+  },
+  "homepage": "https://github.com/tikarammardi/chatkit-app"
 }
