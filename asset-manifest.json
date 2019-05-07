@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tikarammardi/chatkit-app/static/css/main.795991f2.chunk.css",
+    "main.js": "/tikarammardi/chatkit-app/static/js/main.9ec92db7.chunk.js",
+    "main.js.map": "/tikarammardi/chatkit-app/static/js/main.9ec92db7.chunk.js.map",
+    "runtime~main.js": "/tikarammardi/chatkit-app/static/js/runtime~main.dff1424b.js",
+    "runtime~main.js.map": "/tikarammardi/chatkit-app/static/js/runtime~main.dff1424b.js.map",
+    "static/js/2.2f55c4dd.chunk.js": "/tikarammardi/chatkit-app/static/js/2.2f55c4dd.chunk.js",
+    "static/js/2.2f55c4dd.chunk.js.map": "/tikarammardi/chatkit-app/static/js/2.2f55c4dd.chunk.js.map",
+    "index.html": "/tikarammardi/chatkit-app/index.html",
+    "precache-manifest.77c7fa22add9e9888506665cbe319099.js": "/tikarammardi/chatkit-app/precache-manifest.77c7fa22add9e9888506665cbe319099.js",
+    "service-worker.js": "/tikarammardi/chatkit-app/service-worker.js",
+    "static/css/main.795991f2.chunk.css.map": "/tikarammardi/chatkit-app/static/css/main.795991f2.chunk.css.map"
+  }
+}
