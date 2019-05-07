@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/tikarammardi/chatkit-app/precache-manifest.77c7fa22add9e9888506665cbe319099.js"
+  "/tikarammardi/chatkit-app/precache-manifest.1ba921309690d6f3ee4a331ab7323a8e.js"
 );
 
 self.addEventListener('message', (event) => {
